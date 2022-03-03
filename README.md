@@ -1,19 +1,25 @@
-# flutter_challenge
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # Flutter_Challenge
-# Flutter_Challenge
-# Flutter_Challenge
+Un juego de puzzle en donde debes encontrar el orden correcto de los números
+
+## Instalación
+
+Ejecutar el siguiente comando en la raiz del proyecto para instalar las dependencias
+### `flutter packages get`
+
+## Levantar la aplicacion
+
+Seleccione un dispositivo movil y levante la aplicación
+
+### `F5`
+
+## Imagenes de la aplicacion
+
+<p float="left">
+  <img src="assets/puzzle.png" width="180"> 
+</p>
+
+
+
+
+
+
